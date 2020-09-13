@@ -10,10 +10,10 @@
 ## Summary ##  
 
 ## Skills ##  
-◾◾◾◾◽ HTML CSS   
-◾◾◾◽◽ CSS 
+◾◾◾◾◽ HTML   
+◾◾◾◽◽ CSS   
 ◾◾◽◽◽ JavaScript  
-◾◾◽◽◽ Java
+◾◾◽◽◽ Java  
 ◾◾◾◾◾ Photoshop  
 
 ## Experience ##  
@@ -21,5 +21,5 @@
 ## Education ##  
 
 ## English ##  
-**B1 - Intermediate** - according to [the test results](https://drive.google.com/file/d/19jEAjWhgQr_ow68uP_IenIXKt14mDuda/view?usp=sharing "link to google_drive")  
-Everyday practice on [Lingualeo](https://lingualeo.com/en "lingualeo.com")  
+**B1. Intermediate** - according to [the test results](https://drive.google.com/file/d/19jEAjWhgQr_ow68uP_IenIXKt14mDuda/view?usp=sharing "Streamline language school")  
+Everyday practice on [Lingualeo](https://lingualeo.com/en "Lingualeo.com")  
