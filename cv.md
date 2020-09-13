@@ -8,10 +8,17 @@
 **github:** [ulyana-zh](https://github.com/ulyana-zh "new on github")  
 
 ## Summary ##  
+<<<<<<< HEAD
 I have no experience in Front-End Development, my work is all about sales. And it's boring. 
 That's why i want to change my job and start to create.  
    
 I'm ambitious and hardworking, so i believe i can fly (or start coding like a God in 1 year).  
+=======
+I have no experience in Front-End Development, my work is all about sales. And it's boring.   
+That's why i want to change my job and start to create.    
+     
+I'm ambitious and hardworking, so i believe i can fly (or start coding like a God in 1 year).    
+>>>>>>> 2407ed4... docs: change markup
 
 ## Skills ##  
 ◾◾◾◾◽ HTML   
@@ -32,6 +39,7 @@ Complete html and css courses on [html.academy](https://htmlacademy.ru/study)
 Complete JavaScript and Java on [Codecademy](https://www.codecademy.com/)     
 Some courses on [coursera](https://www.coursera.org/), [udemy](https://www.udemy.com/course/javascript_full)     
 
-## English ##  
-**B1. Intermediate** - according to [the test results](https://drive.google.com/file/d/19jEAjWhgQr_ow68uP_IenIXKt14mDuda/view?usp=sharing "Streamline language school")  
-Everyday practice on [Lingualeo](https://lingualeo.com/en "Lingualeo.com")  
+## English ##    
+**B1. Intermediate**  
+according to [the test results](https://drive.google.com/file/d/19jEAjWhgQr_ow68uP_IenIXKt14mDuda/view?usp=sharing "Streamline language school")    
+Everyday practice on [Lingualeo](https://lingualeo.com/en "Lingualeo.com")    
