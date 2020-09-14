@@ -1,1 +1,1 @@
-https://ulyana-zh.github.io/rsschool-cv/cv
+https://ulyana-zh/rsschool-cv/
