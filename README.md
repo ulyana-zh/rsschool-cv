@@ -1,1 +1,1 @@
-https://ulyana-zh/rsschool-cv/
+https://ulyana-zh.github.io/rsschool-cv/
