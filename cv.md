@@ -14,10 +14,10 @@ I have no experience in software development, but I always imagined creating som
 ◾◾◾◾◽ HTML  
 ◾◾◾◽◽ CSS/SCSS  
 ◾◾◾◽◽ JavaScript  
-◾◾◾◽◽ TypeScript  
-◾◾◾◽◽ Webpack, Eslint
-◾◾◾◽◽ Git
-◾◾◾◾◾ Figma, Photoshop  
+◾◾◾◽◽ TypeScript    
+◾◾◾◽◽ Webpack, Eslint  
+◾◾◾◽◽ Git  
+◾◾◾◾◾ Figma, Photoshop    
 
 ## Education and experience ##  
 
