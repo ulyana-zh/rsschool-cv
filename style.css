@@ -61,6 +61,14 @@ a:hover {
     text-decoration: underline;
 }
 
+.presentation {
+    color: #353535;
+}
+
+.presentation-link {
+    color:#787878;
+}
+
 .socialmedia {
     display: flex;
     justify-content: space-between;
