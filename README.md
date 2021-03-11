@@ -1,1 +1,1 @@
-https://ulyana-zh.github.io/rsschool-cv/
+https://ulyana-zh-cv.netlify.app/
